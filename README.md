@@ -1,16 +1,12 @@
-## Hi there 👋
+<table>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/4a462994-bdb6-4c64-a8b8-371fa76b875b" width="400" autoplay loop muted playsinline alt="A stoat hopping in the snow"></video>
+</td>
+<td align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/08fce7e6-ea9c-42d2-901a-f118f570c83e" alt="A stoat in its white winter coat" width="400">
+</td>
+</tr>
+</table>
 
-<!--
-**TheRealTimb/TheRealTimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+this little guy hopping around in the snow is a stoat. a lot of people might mistake it for a mink but its way tougher than a mink. in the winter the stoats fur turns pure white which is an evolutionary trick to help it blend into the snow. by summer though its back turns brown but the black tip on its tail stays the same like its signature look. but its not just about the outfit change. despite being super small the stoats got some serious fighting power. its only about 8 to 12 inches long but it can take down prey several times its size. you could call it the cutest little masked killer. and get this if someone saves a stoat itll actually return the favour by bringing a rabbit it caught as a thank you gift. back in the day stoat fur was a symbol of nobility especially in medieval europe. when queens were crowned it was said their coronation robes were made from stoat fur. in the wild stoats usually live about two to three years but if there are no predators around they can live even longer.
