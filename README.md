@@ -1,10 +1,7 @@
 <table>
 <tr>
 <td align="center" valign="top">
-<video width="400" controls autoplay loop muted playsinline>
-  <source src="https://i.imgur.com/y6iPCM1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://therealtimb.github.io/TheRealTimb/assets/5MP4g1d.mp4" width="400" autoplay loop muted playsinline alt="A stoat hopping in the snow"></video>
 </td>
 <td align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/029bd2ad-a1be-412d-ae03-fe91ce930fd4" alt="A stoat in its white winter coat" width="400">
