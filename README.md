@@ -1,8 +1,9 @@
 <table>
 <tr>
 <td align="center" valign="top">
-<video autoplay loop muted playsinline width="400">
-  <source src="https://i.imgur.com/LK3qs9B.mp4" type="video/mp4">
+<video width="400" controls autoplay loop muted playsinline>
+  <source src="https://i.imgur.com/y6iPCM1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 </td>
 <td align="center" valign="top">
