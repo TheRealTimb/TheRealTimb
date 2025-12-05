@@ -1,7 +1,10 @@
 <table>
 <tr>
 <td align="center" valign="top">
-<video src="./5MP4g1d.mp4" width="400" autoplay loop muted playsinline alt="A stoat hopping in the snow"></video>
+<video width="400" autoplay loop muted playsinline controls>
+  <source src="./5MP4g1d.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </td>
 <td align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/029bd2ad-a1be-412d-ae03-fe91ce930fd4" alt="A stoat in its white winter coat" width="400">
