@@ -1,10 +1,10 @@
 <table>
 <tr>
 <td align="center" valign="top">
-<video src="https://github.com/user-attachments/assets/4a462994-bdb6-4c64-a8b8-371fa76b875b" width="400" autoplay loop muted playsinline alt="A stoat hopping in the snow"></video>
+<video src="https://github.com/user-attachments/assets/1ede4b1f-1d36-4cfc-8560-0dcdf8038d72" width="400" autoplay loop muted playsinline alt="A stoat hopping in the snow"></video>
 </td>
 <td align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/08fce7e6-ea9c-42d2-901a-f118f570c83e" alt="A stoat in its white winter coat" width="400">
+<img src="https://github.com/user-attachments/assets/029bd2ad-a1be-412d-ae03-fe91ce930fd4" alt="A stoat in its white winter coat" width="400">
 </td>
 </tr>
 </table>
