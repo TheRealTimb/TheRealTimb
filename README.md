@@ -5,6 +5,7 @@
   <source src="./5MP4g1d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<p><a href="./5MP4g1d.mp4">Download the MP4 directly</a> if your viewer does not render the inline video.</p>
 </td>
 <td align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/029bd2ad-a1be-412d-ae03-fe91ce930fd4" alt="A stoat in its white winter coat" width="400">
