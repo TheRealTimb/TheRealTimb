@@ -2,7 +2,9 @@
 <tr>
 <td align="center" valign="top"> 
 
-<video src="[https://github.com/user-attachments/assets/5f94a9c8-e75a-49f0-969d-3133f5075f0f](https://raw.githubusercontent.com/TheRealTimb/TheRealTimb/2da79a6adb1ef43cd502ce35336497e7cb75e1f3/5MP4g1d.mp4)" width="400" autoplay loop muted playsinline alt="A stoat hopping in the snow"></video> 
+<video controls>
+  <source src="https://raw.githubusercontent.com/TheRealTimb/TheRealTimb/2da79a6adb1ef43cd502ce35336497e7cb75e1f3/5MP4g1d.mp4" type="video/mp4">
+</video>
 
 </td>
 <td align="center" valign="top">
